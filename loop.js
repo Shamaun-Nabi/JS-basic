@@ -90,12 +90,36 @@
 //   console.log(start);
 // }
 
-let myFriendAges = [
-  14, 17, 22, 23, 26, 78, 45, 47, 89, 45, 78, 75, 56, 78, 547, 5647
-];
+// let myFriendAges = [
+//   14, 17, 22, 23, 26, 78, 45, 47, 89, 45, 78, 75, 56, 78, 547, 5647
+// ];
 
-// console.log(myFriendAges);
+// // console.log(myFriendAges);
 
-for (let iteration = 2; iteration < myFriendAges.length * 2; iteration + 2) {
-  console.log(myFriendAges[iteration]);
-}
+// for (let iteration = 2; iteration < myFriendAges.length * 2; iteration + 2) {
+//   console.log(myFriendAges[iteration]);
+// }
+
+// let myArray = [24, 56, 78, 55, 14, 22, 21, 1, 98];
+// // console.log(myArray[7]);
+
+// Loop with condition
+// for (let iteration = 0; iteration < myArray.length; iteration++) {
+//   if (myArray[iteration] % 2 == 0) {
+//     console.log(myArray[iteration]);
+//   }
+// }
+
+// condition with Loop
+
+// let userValue = 55;
+
+// let anotherArray = [14, 12, 74, 98, 55];
+
+// if (anotherArray.includes(userValue)) {
+//   for (let iteration = 0; iteration <= 10; iteration++) {
+//     console.log("Tumi cholba ekhn");
+//   }
+// } else {
+//   console.log("Cholbe na");
+// }
